@@ -1,0 +1,11 @@
+C:\Users\scottie.thurwanger\Source\repos\Nov14_JITA_Training\Nov14_JITA_Training\bin\Debug\netcoreapp2.0\Nov14_JITA_Training.deps.json
+C:\Users\scottie.thurwanger\Source\repos\Nov14_JITA_Training\Nov14_JITA_Training\bin\Debug\netcoreapp2.0\Nov14_JITA_Training.runtimeconfig.json
+C:\Users\scottie.thurwanger\Source\repos\Nov14_JITA_Training\Nov14_JITA_Training\bin\Debug\netcoreapp2.0\Nov14_JITA_Training.runtimeconfig.dev.json
+C:\Users\scottie.thurwanger\Source\repos\Nov14_JITA_Training\Nov14_JITA_Training\bin\Debug\netcoreapp2.0\Nov14_JITA_Training.dll
+C:\Users\scottie.thurwanger\Source\repos\Nov14_JITA_Training\Nov14_JITA_Training\bin\Debug\netcoreapp2.0\Nov14_JITA_Training.pdb
+C:\Users\scottie.thurwanger\Source\repos\Nov14_JITA_Training\Nov14_JITA_Training\obj\Debug\netcoreapp2.0\Nov14_JITA_Training.csprojResolveAssemblyReference.cache
+C:\Users\scottie.thurwanger\Source\repos\Nov14_JITA_Training\Nov14_JITA_Training\obj\Debug\netcoreapp2.0\Nov14_JITA_Training.csproj.CoreCompileInputs.cache
+C:\Users\scottie.thurwanger\Source\repos\Nov14_JITA_Training\Nov14_JITA_Training\obj\Debug\netcoreapp2.0\Nov14_JITA_Training.AssemblyInfoInputs.cache
+C:\Users\scottie.thurwanger\Source\repos\Nov14_JITA_Training\Nov14_JITA_Training\obj\Debug\netcoreapp2.0\Nov14_JITA_Training.AssemblyInfo.cs
+C:\Users\scottie.thurwanger\Source\repos\Nov14_JITA_Training\Nov14_JITA_Training\obj\Debug\netcoreapp2.0\Nov14_JITA_Training.dll
+C:\Users\scottie.thurwanger\Source\repos\Nov14_JITA_Training\Nov14_JITA_Training\obj\Debug\netcoreapp2.0\Nov14_JITA_Training.pdb
